@@ -40,4 +40,3 @@ def on_start():
 @event.is_press('a')
 def is_btn_press():
     cyberpi.restart()
-
